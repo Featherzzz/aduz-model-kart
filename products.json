@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Solar Cooker",
+    "category": "Basic Material Kit",
+    "price": 299,
+    "desc": "Foil, cardboard and a clear cover demonstrate how sunlight can heat a cooking chamber.",
+    "img": "/assets/products/solar-cooker.svg",
+    "tag": "Sunlight \u2192 heat"
+  },
+  {
+    "id": 2,
+    "name": "Volcano Eruption Model",
+    "category": "Basic Material Kit",
+    "price": 249,
+    "desc": "A classroom demonstration of a volcanic eruption using a model volcano.",
+    "img": "/assets/products/volcano.svg",
+    "tag": "Earth science"
+  },
+  {
+    "id": 3,
+    "name": "Electromagnet",
+    "category": "Basic Material Kit",
+    "price": 199,
+    "desc": "Copper wire, an iron core and a low-voltage battery demonstrate magnetism from current.",
+    "img": "/assets/products/electromagnet.svg",
+    "tag": "Electricity + magnetism"
+  },
+  {
+    "id": 4,
+    "name": "Plant Photosynthesis Model",
+    "category": "Basic Material Kit",
+    "price": 329,
+    "desc": "A visual model explaining how plants use light, water and carbon dioxide.",
+    "img": "/assets/products/photosynthesis.svg",
+    "tag": "Biology"
+  },
+  {
+    "id": 5,
+    "name": "Simple Electric Circuit",
+    "category": "Basic Material Kit",
+    "price": 279,
+    "desc": "A battery, switch, bulb and connecting wires make a basic closed circuit.",
+    "img": "/assets/products/electric-circuit.svg",
+    "tag": "Circuit basics"
+  },
+  {
+    "id": 6,
+    "name": "Water Purification Filter",
+    "category": "Standard Material Kit",
+    "price": 499,
+    "desc": "A layered demonstration filter using gravel, sand and charcoal.",
+    "img": "/assets/products/water-filter.svg",
+    "tag": "Water treatment"
+  },
+  {
+    "id": 7,
+    "name": "Windmill Power Generator",
+    "category": "Standard Material Kit",
+    "price": 649,
+    "desc": "A small turbine model connects rotating blades to a motor and LED.",
+    "img": "/assets/products/windmill-kit.svg",
+    "tag": "Renewable energy"
+  },
+  {
+    "id": 8,
+    "name": "Hydraulic Lift",
+    "category": "Standard Material Kit",
+    "price": 599,
+    "desc": "Syringes, tubing and a platform demonstrate pressure transmission in liquids.",
+    "img": "/assets/products/hydraulic-lift.svg",
+    "tag": "Pascal\u2019s principle"
+  },
+  {
+    "id": 9,
+    "name": "Rainwater Harvesting Model",
+    "category": "Standard Material Kit",
+    "price": 549,
+    "desc": "A rooftop, collection pipe and storage tank demonstrate rainwater capture.",
+    "img": "/assets/products/rainwater.svg",
+    "tag": "Water conservation"
+  },
+  {
+    "id": 10,
+    "name": "Burglar Alarm Circuit",
+    "category": "Standard Material Kit",
+    "price": 679,
+    "desc": "A simple sensor circuit activates a buzzer when the circuit condition changes.",
+    "img": "/assets/products/alarm.svg",
+    "tag": "Electronics"
+  },
+  {
+    "id": 11,
+    "name": "DC Motor Working Model",
+    "category": "Standard Material Kit",
+    "price": 469,
+    "desc": "A coil, magnet and power source demonstrate the working principle of a DC motor.",
+    "img": "/assets/products/dc-motor.svg",
+    "tag": "Electromagnetism"
+  },
+  {
+    "id": 12,
+    "name": "Hydraulic JCB (Ready-made)",
+    "category": "Premium Ready Model",
+    "price": 1199,
+    "desc": "A finished miniature excavator with a moving arm powered by a hydraulic mechanism.",
+    "img": "/assets/products/hydraulic-jcb.svg",
+    "tag": "Ready to present"
+  },
+  {
+    "id": 13,
+    "name": "Smart Dustbin (Ready-made)",
+    "category": "Premium Ready Model",
+    "price": 1099,
+    "desc": "A finished automatic-bin concept with a sensor-controlled lid.",
+    "img": "/assets/products/smart-dustbin.svg",
+    "tag": "Automation"
+  },
+  {
+    "id": 14,
+    "name": "Working Windmill (Ready-made)",
+    "category": "Premium Ready Model",
+    "price": 899,
+    "desc": "A completed windmill model with rotating blades and an LED demonstration.",
+    "img": "/assets/products/windmill-ready.svg",
+    "tag": "Ready to present"
+  },
+  {
+    "id": 15,
+    "name": "Human Heart Model (Ready-made)",
+    "category": "Premium Ready Model",
+    "price": 849,
+    "desc": "A labelled anatomy display illustrating the chambers and direction of blood flow.",
+    "img": "/assets/products/heart.svg",
+    "tag": "Human biology"
+  }
+]
