@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 340" role="img" aria-label="Rainwater Harvesting Model">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef5f2"/><stop offset="1" stop-color="#dce9e6"/></linearGradient><pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#9ab8ad" opacity=".35"/></pattern></defs>
+<rect width="360" height="340" rx="28" fill="url(#bg)"/><rect width="360" height="340" rx="28" fill="url(#dots)"/>
+<ellipse cx="180" cy="300" rx="112" ry="14" fill="#8ba69d" opacity=".22"/>
+<path d="M65 150L180 70L295 150" fill="#e7a66d" stroke="#825f4b" stroke-width="8"/><path d="M90 145V245H270V145" fill="#f4e6d5" stroke="#825f4b" stroke-width="7"/><path d="M250 150V220H275V270" fill="none" stroke="#4f9ac2" stroke-width="10"/><rect x="235" y="265" width="80" height="45" rx="8" fill="#79b8d8" stroke="#52788a" stroke-width="6"/><path d="M180 70V45M170 45H190" stroke="#4f9ac2" stroke-width="7"/><path d="M150 25L150 45M180 15V40M210 25L210 45" stroke="#4f9ac2" stroke-width="5"/>
+<rect x="20" y="18" width="auto" height="30" rx="15" fill="#ffffff" opacity=".85"/><text x="34" y="38" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.2" fill="#315b50">ADUZ • MODEL LAB</text>
+</svg>
