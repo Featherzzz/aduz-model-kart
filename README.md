@@ -1,0 +1,1 @@
+# aduz-model-kart
